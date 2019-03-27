@@ -1,4 +1,4 @@
-# Unit 2 | Assignment - The VBA of Wall Street
+# Assignment - The VBA of Wall Street
 
 ## Background
 
