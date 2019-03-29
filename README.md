@@ -6,13 +6,13 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 ### Files
 
-* [Test Data](sanbox/Resources/alphabtical_testing.xlsx) - Use this while developing your scripts.
+* [Test Data](sandbox/02-VBA-Script/Instructions/Resources/alphabtical_testing.xlsx) - Use this while developing your scripts.
 
-* [Stock Data](sandbox/Resources/Multiple_year_stock_data.xlsx) - Run your scripts on this data to generate the final homework report.
+* [Stock Data](sandbox/02-VBA-Script/Instructions/Resources/Multiple_year_stock_data.xlsx) - Run your scripts on this data to generate the final homework report.
 
 ### Stock market analyst
 
-![stock Market](sandbox/Images/stockmarket.jpg)
+![stock Market](sandbox/02-VBA-Script/Instructions/Images/stockmarket.jpg)
 
 ### Easy
 
@@ -22,7 +22,7 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 * Your result should look as follows (note: all solution images are for 2015 data).
 
-![easy_solution](sandbox/Images/easy_solution.png)
+![easy_solution](sandbox/02-VBA-Script/Instructions/Images/easy_solution.png)
 
 ### Moderate
 
@@ -40,7 +40,7 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 * The result should look as follows.
 
-![moderate_solution](sandbox/Images/moderate_solution.png)
+![moderate_solution](sandbox/02-VBA-Script/Instructions/Images/moderate_solution.png)
 
 ### Hard
 
@@ -50,7 +50,7 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 * Solution will look as follows.
 
-![hard_solution](sandbox/Images/hard_solution.png)
+![hard_solution](sandbox/02-VBA-Script/Instructions/Images/hard_solution.png)
 
 ### CHALLENGE
 
